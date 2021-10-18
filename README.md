@@ -18,12 +18,13 @@ Python / Django / Java Script / PostgreSQL / jQuery
  * Java Script,
  * CSS. 
 
+#### My GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaJK01)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaJK01&show_icons=true)  
+
+
 #### How to find me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElaJK01)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elzbieta-januskaleta/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaJK01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaJK01&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/ElaJK01)  
+![Profile views](https://gpvc.arturio.dev/ElaJK01) 
