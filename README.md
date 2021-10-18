@@ -6,7 +6,7 @@
 Resently I’ve got hooked on gardening:sunflower: :four_leaf_clover: :bee:
 :hibiscus: :evergreen_tree:, and I’m wondering if there’s a way to combine my both passions...:thinking: 
 
-###Technologies: 
+### Technologies: 
 Python / Django / Java Script / PostgreSQL / jQuery
 
 - 🌱 I’m currently learning:
