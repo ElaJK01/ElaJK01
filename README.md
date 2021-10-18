@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Ela
 
-**I’m aspiring junior webdeveloper and Python enthusiast**./n 
+**I’m aspiring junior webdeveloper and Python enthusiast**.
+
 :rocket: I like programming cause it gives me the feeling of creating something new. 
 
 Resently I’ve got hooked on gardening:sunflower: :four_leaf_clover: :bee:
