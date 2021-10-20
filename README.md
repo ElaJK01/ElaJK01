@@ -12,7 +12,7 @@ Python / Django / Java Script / PostgreSQL / jQuery
 
 #### More about me:
 
-🌱 I’m currently learning:
+🌱 I’m currently learning and improving:
  * Node.js, 
  * Data Structures and Algorithms, 
  * Java Script,
