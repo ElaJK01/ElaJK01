@@ -16,7 +16,7 @@ Python / Django / Java Script / PostgreSQL / jQuery
  * Node.js, 
  * Data Structures and Algorithms, 
  * Java Script,
- * ExpressJs,
+ * ExpressJS,
  * MongoDB,
  * React,
  * CSS. 
