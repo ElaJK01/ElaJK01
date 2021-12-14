@@ -18,10 +18,6 @@ Python / Django / Java Script / PostgreSQL / jQuery
  * Java Script,
  * CSS. 
 
-#### :bar_chart: My GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaJK01&layout=compact?hide=SCSS)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaJK01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### How to find me:
 
