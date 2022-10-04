@@ -6,17 +6,14 @@
 
 
 #### Technologies: 
-Python / Django / Java Script / PostgreSQL / jQuery
+Java Script / React / GraphQL /Python / Django / PostgreSQL /jQuery
 
 #### More about me:
 
 🌱 I’m currently learning and improving:
- * Node.js, 
- * Data Structures and Algorithms, 
+ * React
  * Java Script,
- * ExpressJS,
- * MongoDB,
- * React,
+ * GraphQL
  * CSS. 
 
 
