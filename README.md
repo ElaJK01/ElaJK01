@@ -1,20 +1,8 @@
 # Hi there 👋, my name is Ela
 
-**I’m aspiring junior webdeveloper and Python enthusiast**.
-
-:rocket: I like programming cause it gives me the feeling of creating something new. 
-
 
 #### Technologies: 
 Java Script / React / GraphQL /Python / Django / PostgreSQL /jQuery
-
-#### More about me:
-
-🌱 I’m currently learning and improving:
- * React
- * Java Script,
- * GraphQL
- * CSS. 
 
 
 #### How to find me:
