@@ -2,7 +2,7 @@
 
 
 #### Technologies: 
-Java Script / React / React Native / GraphQL / Python / Django / PostgreSQL /jQuery
+Java Script / TYpeScript / React / React Native / GraphQL / Python / Django / PostgreSQL /jQuery
 
 
 #### How to find me:
