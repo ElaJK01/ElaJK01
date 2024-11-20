@@ -22,7 +22,14 @@ My first steps in programming I took in Python and Django.
 
 ---
 #### :mailbox: How to find me:
+<div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElaJK01)&nbsp      
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elzbieta-januskaleta/)  
+</div>
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElaJK01)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elzbieta-januskaleta/)  
+#### :fire: My Stats and other achievements :
 
 ![Codewars](https://www.codewars.com/users/ElaJK01/badges/micro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaJK01&layout=compact&theme=buefy)](https://github.com/ElaJK01/github-readme-stats)
