@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Ela
+## Hi there 👋, my name is Ela
 I'm a Frontend Developer from Poland currently residing in Luxembourg.
 
 ---
@@ -23,11 +23,11 @@ My first steps in programming I took in Python and Django.
 ---
 #### :mailbox: How to find me:
 <div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElaJK01)&nbsp      
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elzbieta-januskaleta/)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/ElaJK01)&nbsp      
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/elzbieta-januskaleta/)  
 </div>
----
 
+---
 #### :fire: My Stats and other achievements :
 
 ![Codewars](https://www.codewars.com/users/ElaJK01/badges/micro)
