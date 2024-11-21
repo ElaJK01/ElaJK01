@@ -31,7 +31,7 @@ I took my first steps in programming with Python and Django, but nearly three ye
 </div>
 
 ---
-#### :fire: My Stats and other achievements :
+#### :fire: My Stats:
 
 ![Codewars](https://www.codewars.com/users/ElaJK01/badges/micro)
 
