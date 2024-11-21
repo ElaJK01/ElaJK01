@@ -1,5 +1,10 @@
 ## Hi there 👋, my name is Ela
-I'm a Frontend Developer from Poland currently residing in Luxembourg.
+I'm a Frontend Developer from Poland 🇵🇱 currently residing in Luxembourg 🇱🇺.
+
+I took my first steps in programming with Python and Django, but nearly three years ago, I shifted my focus to frontend development (React and React Native). I have worked on diverse projects that required continuous learning and skills development, including exploring new libraries such as Ramda.js, Styled-comonents, etc.
+
+#### 🔭 : I'm currently working on:
+* my old projects,
 
 ---
 #### :hammer_and_wrench: Languages and Tools : 
@@ -17,8 +22,6 @@ I'm a Frontend Developer from Poland currently residing in Luxembourg.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-My first steps in programming I took in Python and Django.
 
 ---
 #### :mailbox: How to reach me:
