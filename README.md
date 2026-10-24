@@ -1,8 +1,6 @@
 ## Hi there 👋, my name is Ela
 I'm a Frontend Developer from Poland 🇵🇱 currently residing in Luxembourg 🇱🇺.
 
-I took my first steps in programming with Python and Django, but nearly three years ago, I shifted my focus to frontend development (React and React Native). I have worked on diverse projects that required continuous learning and skills development, including exploring new libraries such as Ramda.js, Styled-comonents, etc. I was also involved in projects related to web scrapping and data transformation.
-
 ---
 #### :hammer_and_wrench: Languages and Tools : 
 <div>
@@ -23,7 +21,6 @@ I took my first steps in programming with Python and Django, but nearly three ye
 ---
 #### :mailbox: How to reach me:
 <div>
-<a href="https://www.linkedin.com/in/elzbieta-januskaleta/"><img src='https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg' alt='linkedin' height='20'></a>&nbsp;
 <a href="https://github.com/ElaJK01"><img src='https://github.com/CLorant/readme-social-icons/blob/main/small/colored/github.svg' alt='github' height='20'></a>      
 </div>
 
