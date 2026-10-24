@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Ela
-I'm a Frontend Developer from Poland 🇵🇱 currently residing in Luxembourg 🇱🇺.
+I'm a Frontend Developer from Poland currently residing in Luxembourg.
 
 ---
 #### :hammer_and_wrench: Languages and Tools : 
